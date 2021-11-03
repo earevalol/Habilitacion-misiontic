@@ -44,6 +44,7 @@ const Navbars = () => {
          <NavDropdown title={Name} id="navbarScrollingDropdown">
          <NavDropdown.Item ><Link to='/dash' >Dashboard</Link></NavDropdown.Item>
          <NavDropdown.Item ><Link to='/ventas' >Ventas</Link></NavDropdown.Item>
+         <NavDropdown.Item ><Link to='/productos' >Productos</Link></NavDropdown.Item>
          <NavDropdown.Divider />
         
          <NavDropdown.Item >
